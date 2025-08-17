@@ -1,0 +1,97 @@
+.student-container {
+  padding: 20px;
+}
+
+.student-heading {
+  font-size: 24px;
+  color: deeppink;
+  background-color: #f9f9f9;
+  margin-bottom: 20px;
+}
+
+.student-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.student-card {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 10px;
+  width: 200px;
+  text-align: center;
+  background-color: #f9f9f9;
+}
+
+.student-card img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.student-card h3 {
+  margin: 10px 0 5px;
+}
+
+.student-card p {
+  color: green;
+  font-weight: bold;
+}
+.buy-btn {
+  margin-top: 10px;
+  background-color: #ff6f61;       /* Coral red */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  font-size: 16px;
+  font-weight: 500;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.buy-btn:hover {
+  background-color: #e85c50;
+  transform: translateY(-2px);
+}
+
+.student1-container {
+  padding: 20px;
+}
+
+.student1-heading {
+  font-size: 24px;
+  color: deeppink;
+  background-color: #f9f9f9;
+  margin-bottom: 20px;
+}
+
+.student1-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.student1-card {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 10px;
+  width: 200px;
+  text-align: center;
+  background-color: #f9f9f9;
+}
+
+.student1-card img {
+  width: 100%;
+  border-radius: 8px;
+}
+
+.student1-card h3 {
+  margin: 10px 0 5px;
+}
+
+.student1-card p {
+  color: green;
+  font-weight: bold;
+}
